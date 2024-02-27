@@ -1,0 +1,36 @@
+a{
+    color: #0b130d;
+    text-decoration: none;
+}
+
+h1{
+    text-align: center;
+    font-size: 70px;
+}
+
+ul li {
+    font-size: 15px;
+}
+
+h3{
+    font-size: 25px;
+}
+
+h2{
+    font-family: sans-serif;
+  font-weight: bold;
+  text-align: center;
+  padding: 20px;
+  background: linear-gradient(to right, #ac9191, #ad7608);
+  color: #fff;
+
+}
+
+body{
+    background-color: rgba(230, 227, 97, 0.877);
+    color: black;
+}
+
+
+
+
